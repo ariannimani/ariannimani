@@ -19,6 +19,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Redux.js](https://img.shields.io/badge/-Redux.js-333333?style=flat&logo=redux.js)
+  
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
@@ -29,8 +30,8 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-  - 🔧 &nbsp;
-    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🔧 &nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 ### 📫 &nbsp; How to reach me:
