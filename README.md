@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; "Bachelor's degree in computer science from South East European University.
+- 🎓 &nbsp; Bachelor's degree in computer science from South East European University.
 
 ### 🛠 &nbsp;Tech Stack
 
