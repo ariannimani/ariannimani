@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## I'm Arian.
+![Arian](https://komarev.com/ghpvc/?username=ariannimani&style=flat-square)
 
 ### 💻 &nbsp;About Me
 
@@ -18,7 +19,7 @@
   ![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  ![Redux.js](https://img.shields.io/badge/-Redux.js-333333?style=flat&logo=redux.js)
+  ![Redux.js](https://img.shields.io/badge/-Redux.js-333333?style=flat&logo=redux)
   
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
